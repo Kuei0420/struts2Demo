@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\struts2Demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\833971360.index
+\demo\src\main\resources
+D:\struts2Demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2660035179.index
+\MavenDemo\src\main\resources
+D:\struts2Demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2631048621.index
+\struts2\src\main\resources

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.struts2.convention.annotation.Namespace"/>
+<fullyQualifiedTypeName name="org.apache.struts2.convention.annotation.ResultPath"/>
+<fullyQualifiedTypeName name="org.apache.struts2.convention.annotation.Result"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+</qualifiedTypeNameHistroy>

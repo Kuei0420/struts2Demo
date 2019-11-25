@@ -1,0 +1,10 @@
+computeSourcePath=true
+configMode=serverFile
+contextsDir=D\:\\struts2Demo\\apache-tomcat-9.0.24\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/manager
+projectsInSourcePath=struts2;
+tomcatConfigFile=D\:\\struts2Demo\\apache-tomcat-9.0.24\\conf\\server.xml
+tomcatDir=D\:\\struts2Demo\\apache-tomcat-9.0.24
+tomcatJRE=1574233864079
+tomcatVersion=tomcatV9
